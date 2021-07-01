@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Temporary() {
-  return <div>가나다라마바사</div>;
+  return <div>rkrkkkaakak</div>;
 }
 
 export default Temporary;
